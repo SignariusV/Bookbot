@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 .idea/
+services/test_file_handling.py
+services/book_dict.py
